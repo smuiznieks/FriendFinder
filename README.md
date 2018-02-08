@@ -1,6 +1,6 @@
 # Friend Finder
 
-Friend Finder, an Express.js app, matches you with a friend based on compatibility calculated based on your survey answers. [Check it out on Heroku](https://obscure-shelf-79807.herokuapp.com/#).
+This full-stack site matches you with a friend based on compatibility calculated by comparing your survey answers. Complete the survey to see your future friend's name and picture! Routing is handled by Express. [Check it out on Heroku](https://obscure-shelf-79807.herokuapp.com/#).
 
 ## Built With
 
